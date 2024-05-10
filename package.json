@@ -1,0 +1,14 @@
+{
+  "name": "bb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "servor"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
